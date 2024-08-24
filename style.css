@@ -1,0 +1,29 @@
+:root {
+    font-family: "Open Sans", sans-serif;
+}
+
+#page {
+    box-sizing: border-box;
+    width: 1120px;
+    margin-top: 88px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 137px;
+    
+}
+
+
+.firsttext {
+    color: red;
+    font-weight: bolder;
+    margin-bottom: 8px;
+    
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+section img {
+    margin-top: 10px;
+}
