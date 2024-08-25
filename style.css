@@ -24,14 +24,65 @@ h1 {
     margin-bottom: 40px;
 }
 
-section img {
-    margin-top: 10px;
-}
 
-#conheca .hr {
-    margin-bottom: 30px;
-}
-
-hr {
+#descubra hr {
     margin-top: 40px;
+    margin-bottom: 64px;
 }
+
+#descubra p {
+    text-align: justify;
+}
+
+
+#destinoone img {
+    margin-top: 64px;
+}
+
+#destinotwo img {
+    margin-top: 48px;
+}
+
+#destinothree img {
+    margin-top: 48px;
+}
+
+.historia {
+    color: rgb(3, 3, 133);
+    font-weight: bolder;    
+}
+
+#destinothree ul {
+    font-weight: bolder;
+}
+
+#casais {
+    color: purple;
+}
+
+#familias {
+    color: rgb(255, 0, 89);
+}
+
+#orcamentos {
+    color: rgb(224, 152, 16);
+}
+
+h1, h2, h3 {
+    font-size: 28px;
+}
+
+#destinothree hr {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#rodape {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    margin-bottom: 48px;
+}
+
