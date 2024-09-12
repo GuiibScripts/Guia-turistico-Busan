@@ -4,18 +4,13 @@
     font-family: "Open Sans", sans-serif;
 }
 
-body {
-    margin: auto;
-}
-
 #page {
+    align-items: center;
+    justify-content: center;
+    margin: auto;
     box-sizing: border-box;
     width: 1120px;
-    margin-top: 88px;
-    margin-left: 80px;
-    margin-right: 80px;
-    margin-bottom: 137px;
-    
+
 }
 
 
